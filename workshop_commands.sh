@@ -1,3 +1,5 @@
+## N.B. this workshop material sourced from https://github.com/nih-cfde/training-rstudio-binder
+
 ## IMPORTANT: Run one line at a time! 
 
 ## SET UP
@@ -55,8 +57,8 @@ echo $PATH # check path for fqc_trim environment
 
 # Method 3: specify software to install with a YAML file
 conda deactivate
-# click on test.yml in file directory to see how it is formatted
-conda env create -f test.yml #since environment name specified in yml file, we do not need to use -n flag here
+# click on fqc.yml in file directory to see how it is formatted
+conda env create -f fqc.yml #since environment name specified in yml file, we do not need to use -n flag here
 conda activate fqc_yaml
 conda list  # check installed software
 
