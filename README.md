@@ -1,6 +1,8 @@
-# training-rstudio-binder
+# conda-workshop binder
 
-This repository holds binder files to create an Rstudio binder that can be used for conda training events.
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/bakerccm/training-rstudio/conda-workshop)
+
+This repository holds binder files to create an Rstudio binder that can be used for conda training.
 
 These files are used in hands-on workshop activities:
 - `workshop_commands.sh` for conda commands
