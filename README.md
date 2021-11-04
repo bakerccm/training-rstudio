@@ -8,3 +8,8 @@ These files are used in hands-on workshop activities:
 - `workshop_commands.sh` for conda commands
 - `test.yml` for specifying an environment with YAML file
 
+---
+
+Maintained by [Chris Baker](https://github.com/bakerccm)
+
+Originally derived from [NIH-CFDE training materials](https://github.com/nih-cfde/training-rstudio-binder)
