@@ -16,10 +16,9 @@ This repo holds binder files to create Rstudio binders that can be used for onli
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nih-cfde/training-rstudio-binder/conda-workshop-march2021?urlpath=rstudio)
 
+## Adding new binders from this repo
 
-## Adding new binders *from this repo*
-
-**For CFDE trainers:** if you'd like to build a new Rstudio binder with other installations from this repo - 
+If you'd like to build a new Rstudio binder from this repo:
 
 1) create a new branch
 2) edit `environment.yml` file in the [./binder](./binder) directory
