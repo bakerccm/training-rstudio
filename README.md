@@ -1,6 +1,6 @@
 # rstudio-snakemake binder
 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nih-cfde/training-rstudio-binder/rstudio-snakemake-workflow?urlpath=rstudio)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/bakerccm/training-rstudio/rstudio-snakemake?urlpath=rstudio)
 
 This repository holds binder files to create an Rstudio binder with Snakemake.
 
