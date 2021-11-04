@@ -12,9 +12,9 @@ This repo holds binder files to create Rstudio binders that can be used for onli
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nih-cfde/training-rstudio-binder/rstudio-snakemake-workflow?urlpath=rstudio)
 
-- This binder (on `conda-workshop-march2021`) has Rstudio, and includes example code files for conda workshop:
+- This binder (on `conda-workshop`) has Rstudio, and includes example code files for conda workshop:
 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nih-cfde/training-rstudio-binder/conda-workshop-march2021?urlpath=rstudio)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/bakerccm/training-rstudio/conda-workshop?urlpath=rstudio)
 
 ## Adding new binders from this repo
 
