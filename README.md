@@ -1,4 +1,4 @@
-# training-rstudio-binder
+# basic-rstudio binder
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nih-cfde/training-rstudio-binder/basic-rstudio?urlpath=rstudio)
 
