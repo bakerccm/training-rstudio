@@ -37,3 +37,8 @@ This repository holds binder files to create an Rstudio binder that can be used 
   - change "Path to a notebook file (optional)" dropdown to "URL" from "File". Type `rstudio` so the binder opens Rstudio.
 - do not merge branches to `main` or delete branches that existing binders are pointing to, otherwise those binders will not work anymore!
 
+---
+
+Maintained by [Chris Baker](https://github.com/bakerccm)
+
+Originally derived from [NIH-CFDE training materials](https://github.com/nih-cfde/training-rstudio-binder)
