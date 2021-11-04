@@ -1,6 +1,6 @@
-# training-rstudio-binder
+# training-rstudio
 
-This repository holds binder files to create an Rstudio binder that can be used for training events.
+This repo holds binder files to create Rstudio binders that can be used for online interactive workshops.
 
 ## Binders
 
