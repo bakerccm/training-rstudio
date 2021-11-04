@@ -2,6 +2,8 @@
 
 This repository holds binder files to create an Rstudio binder that can be used for training events.
 
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nih-cfde/training-rstudio-binder/basic-rstudio?urlpath=rstudio)
+
 ---
 
 Maintained by [Chris Baker](https://github.com/bakerccm)
